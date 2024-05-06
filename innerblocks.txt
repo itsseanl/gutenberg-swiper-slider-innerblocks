@@ -1,0 +1,108 @@
+Array
+(
+    [0] => Array
+        (
+            [blockName] => core/image
+            [attrs] => Array
+                (
+                    [id] => 188
+                    [sizeSlug] => full
+                    [linkDestination] => none
+                    [className] => is-style-rounded test
+                )
+
+            [innerBlocks] => Array
+                (
+                )
+
+            [innerHTML] => 
+<figure class="wp-block-image size-full is-style-rounded test"><img src="https://wpdoodle.lndo.site/wp-content/uploads/2024/04/vincent-lavigna-rREvoaBucWo-unsplash.jpg" alt="" class="wp-image-188"/></figure>
+
+            [innerContent] => Array
+                (
+                    [0] => 
+<figure class="wp-block-image size-full is-style-rounded test"><img src="https://wpdoodle.lndo.site/wp-content/uploads/2024/04/vincent-lavigna-rREvoaBucWo-unsplash.jpg" alt="" class="wp-image-188"/></figure>
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [blockName] => core/image
+            [attrs] => Array
+                (
+                    [id] => 14
+                    [sizeSlug] => full
+                    [linkDestination] => none
+                )
+
+            [innerBlocks] => Array
+                (
+                )
+
+            [innerHTML] => 
+<figure class="wp-block-image size-full"><img src="https://wpdoodle.lndo.site/wp-content/uploads/2024/04/agata-ciosek-KVIRnUZBKA4-unsplash.jpg" alt="test21" class="wp-image-14"/></figure>
+
+            [innerContent] => Array
+                (
+                    [0] => 
+<figure class="wp-block-image size-full"><img src="https://wpdoodle.lndo.site/wp-content/uploads/2024/04/agata-ciosek-KVIRnUZBKA4-unsplash.jpg" alt="test21" class="wp-image-14"/></figure>
+
+                )
+
+        )
+
+    [2] => Array
+        (
+            [blockName] => core/image
+            [attrs] => Array
+                (
+                    [id] => 188
+                    [sizeSlug] => full
+                    [linkDestination] => none
+                )
+
+            [innerBlocks] => Array
+                (
+                )
+
+            [innerHTML] => 
+<figure class="wp-block-image size-full"><img src="https://wpdoodle.lndo.site/wp-content/uploads/2024/04/vincent-lavigna-rREvoaBucWo-unsplash.jpg" alt="" class="wp-image-188"/></figure>
+
+            [innerContent] => Array
+                (
+                    [0] => 
+<figure class="wp-block-image size-full"><img src="https://wpdoodle.lndo.site/wp-content/uploads/2024/04/vincent-lavigna-rREvoaBucWo-unsplash.jpg" alt="" class="wp-image-188"/></figure>
+
+                )
+
+        )
+
+    [3] => Array
+        (
+            [blockName] => core/image
+            [attrs] => Array
+                (
+                    [id] => 188
+                    [sizeSlug] => full
+                    [linkDestination] => none
+                )
+
+            [innerBlocks] => Array
+                (
+                )
+
+            [innerHTML] => 
+<figure class="wp-block-image size-full"><img src="https://wpdoodle.lndo.site/wp-content/uploads/2024/04/vincent-lavigna-rREvoaBucWo-unsplash.jpg" alt="" class="wp-image-188"/></figure>
+
+            [innerContent] => Array
+                (
+                    [0] => 
+<figure class="wp-block-image size-full"><img src="https://wpdoodle.lndo.site/wp-content/uploads/2024/04/vincent-lavigna-rREvoaBucWo-unsplash.jpg" alt="" class="wp-image-188"/></figure>
+
+                )
+
+        )
+
+)
